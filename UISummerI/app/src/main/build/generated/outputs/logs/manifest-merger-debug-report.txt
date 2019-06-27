@@ -1,0 +1,174 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:design:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/d3830841fb1f48f4d24f063f387ed6f6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/4852f7e4af83c2d863460dcaef4c37de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/90548189c48191b852cd18d7d687faa3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/781fec442304e48d1412939f42d78dd9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/475280a4c7b69808512b884fbaacfff1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/cdabb66967a507c276088ee3ec332412/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/ab2e2bf61487844c96e4cea6e3b90925/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/ce709524d3b7c32ff4309fc3f68d99d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/476d3d0b1e4647870d5323eb37ee68e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/3e14b17c6a2d4cfd42eb6316c4f1ba96/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/671eab157fac66a565ab0fad4a9fc672/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/661c3fea4dedb4107fe4d3a18925ec00/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/e44662549d53f0b5788e9bd5a3578fc7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/f409faae8fb2d779b46fa53e5accb3a4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/e66c49e12c70433f7ddd93da8d55ea07/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/8b52b0f24148d21ad1e9e61b70821bbb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/e637de5e0d30c40f375064dd87303927/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/61ae7731f6b4686e807c952e12e3f1d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/0d55c3effafb9fa586059a316c190d58/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/fa452f500cd4793d9d42b87817f5fd3a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/b391aa44413256db6165820d716f356c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/555c43eb3e9ecbefca2b4cebb6fa0ff7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/d178c636ae61d2ccfb7e3a0b0d5a7a8b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/8614108d5a26924c82ad4af4e4af169f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/e37404ca752735678375a1035da331c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/e3924a4130d653d02af37d165f03a125/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/166b6863468ca4328cf28cb639aa44ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/94812ade5f2aafff8fc7c817e39eb9db/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/66605d77fa93c640686ef4617906dc3c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/d8759ddea3c3988df4a20081f4334180/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/2490b072d6a51921963acf788e1f09e3/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support:design:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/d3830841fb1f48f4d24f063f387ed6f6/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/d3830841fb1f48f4d24f063f387ed6f6/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/90548189c48191b852cd18d7d687faa3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/90548189c48191b852cd18d7d687faa3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/0d55c3effafb9fa586059a316c190d58/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/0d55c3effafb9fa586059a316c190d58/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/fa452f500cd4793d9d42b87817f5fd3a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/fa452f500cd4793d9d42b87817f5fd3a/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/0d55c3effafb9fa586059a316c190d58/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:8:9-44
+	android:roundIcon
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.uisummeri.MainActivity
+ADDED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:17:27-74
+meta-data#preloaded_fonts
+ADDED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:20:9-22:57
+	android:resource
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:22:13-54
+	android:name
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml:21:13-43
+uses-sdk
+INJECTED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/d3830841fb1f48f4d24f063f387ed6f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/d3830841fb1f48f4d24f063f387ed6f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/4852f7e4af83c2d863460dcaef4c37de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/4852f7e4af83c2d863460dcaef4c37de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/90548189c48191b852cd18d7d687faa3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/90548189c48191b852cd18d7d687faa3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/781fec442304e48d1412939f42d78dd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/781fec442304e48d1412939f42d78dd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/475280a4c7b69808512b884fbaacfff1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/475280a4c7b69808512b884fbaacfff1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/cdabb66967a507c276088ee3ec332412/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/cdabb66967a507c276088ee3ec332412/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/ab2e2bf61487844c96e4cea6e3b90925/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/ab2e2bf61487844c96e4cea6e3b90925/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/ce709524d3b7c32ff4309fc3f68d99d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/ce709524d3b7c32ff4309fc3f68d99d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/476d3d0b1e4647870d5323eb37ee68e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/476d3d0b1e4647870d5323eb37ee68e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/3e14b17c6a2d4cfd42eb6316c4f1ba96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/3e14b17c6a2d4cfd42eb6316c4f1ba96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/671eab157fac66a565ab0fad4a9fc672/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/671eab157fac66a565ab0fad4a9fc672/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/661c3fea4dedb4107fe4d3a18925ec00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/661c3fea4dedb4107fe4d3a18925ec00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/e44662549d53f0b5788e9bd5a3578fc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/e44662549d53f0b5788e9bd5a3578fc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/f409faae8fb2d779b46fa53e5accb3a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/f409faae8fb2d779b46fa53e5accb3a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/e66c49e12c70433f7ddd93da8d55ea07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/e66c49e12c70433f7ddd93da8d55ea07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/8b52b0f24148d21ad1e9e61b70821bbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/8b52b0f24148d21ad1e9e61b70821bbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/e637de5e0d30c40f375064dd87303927/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/e637de5e0d30c40f375064dd87303927/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/61ae7731f6b4686e807c952e12e3f1d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/61ae7731f6b4686e807c952e12e3f1d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/0d55c3effafb9fa586059a316c190d58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/0d55c3effafb9fa586059a316c190d58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/fa452f500cd4793d9d42b87817f5fd3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/fa452f500cd4793d9d42b87817f5fd3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/b391aa44413256db6165820d716f356c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/b391aa44413256db6165820d716f356c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/555c43eb3e9ecbefca2b4cebb6fa0ff7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/555c43eb3e9ecbefca2b4cebb6fa0ff7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/d178c636ae61d2ccfb7e3a0b0d5a7a8b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/d178c636ae61d2ccfb7e3a0b0d5a7a8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/8614108d5a26924c82ad4af4e4af169f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/8614108d5a26924c82ad4af4e4af169f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/e37404ca752735678375a1035da331c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/e37404ca752735678375a1035da331c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/e3924a4130d653d02af37d165f03a125/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/e3924a4130d653d02af37d165f03a125/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/166b6863468ca4328cf28cb639aa44ad/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/166b6863468ca4328cf28cb639aa44ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/94812ade5f2aafff8fc7c817e39eb9db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/94812ade5f2aafff8fc7c817e39eb9db/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/66605d77fa93c640686ef4617906dc3c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/66605d77fa93c640686ef4617906dc3c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/d8759ddea3c3988df4a20081f4334180/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/d8759ddea3c3988df4a20081f4334180/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/2490b072d6a51921963acf788e1f09e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/2490b072d6a51921963acf788e1f09e3/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Huangdanni/AndroidStudioProjects/UISummerI/app/src/main/AndroidManifest.xml
