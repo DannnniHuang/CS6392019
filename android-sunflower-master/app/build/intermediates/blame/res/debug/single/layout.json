@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/Huangdanni/AndroidStudioProjects/android-sunflower-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_plant_detail.xml",
+        "source": "/Users/Huangdanni/AndroidStudioProjects/android-sunflower-master/app/src/main/res/layout/fragment_plant_detail.xml"
+    },
+    {
+        "merged": "/Users/Huangdanni/AndroidStudioProjects/android-sunflower-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_item_garden_planting.xml",
+        "source": "/Users/Huangdanni/AndroidStudioProjects/android-sunflower-master/app/src/main/res/layout/list_item_garden_planting.xml"
+    },
+    {
+        "merged": "/Users/Huangdanni/AndroidStudioProjects/android-sunflower-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_garden.xml",
+        "source": "/Users/Huangdanni/AndroidStudioProjects/android-sunflower-master/app/src/main/res/layout/activity_garden.xml"
+    },
+    {
+        "merged": "/Users/Huangdanni/AndroidStudioProjects/android-sunflower-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_item_plant.xml",
+        "source": "/Users/Huangdanni/AndroidStudioProjects/android-sunflower-master/app/src/main/res/layout/list_item_plant.xml"
+    },
+    {
+        "merged": "/Users/Huangdanni/AndroidStudioProjects/android-sunflower-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_garden.xml",
+        "source": "/Users/Huangdanni/AndroidStudioProjects/android-sunflower-master/app/src/main/res/layout/fragment_garden.xml"
+    },
+    {
+        "merged": "/Users/Huangdanni/AndroidStudioProjects/android-sunflower-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_plant_list.xml",
+        "source": "/Users/Huangdanni/AndroidStudioProjects/android-sunflower-master/app/src/main/res/layout/fragment_plant_list.xml"
+    }
+]

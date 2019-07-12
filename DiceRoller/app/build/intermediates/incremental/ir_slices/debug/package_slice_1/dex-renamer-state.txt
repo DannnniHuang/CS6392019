@@ -1,0 +1,4 @@
+#Wed Jul 10 22:54:40 EDT 2019
+base.0=/Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex

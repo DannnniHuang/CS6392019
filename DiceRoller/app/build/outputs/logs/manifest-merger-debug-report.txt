@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/5d28c042f0bb0b4075455f6f6873d403/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/963404e8ed40604cf67c0126dbc0d383/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/a16e0188396dae9463a4a8988571888a/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/290438e323186e155b86240f0ba11e33/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/7dc2cd3807fe8f2e1c3f561e9c2158ff/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/36861c899f94f64c4d4b10c3f9d3895c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/9cc457d553b4ab459afde441be2017ee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/ae8fd86f3d91c48d62f48bc4cbecf83d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/108708daf64e4bffb1c359215f3290df/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/e1545756ac47deeff26fda7b71725bbf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/753950bb2a121a4e9c9f76ed774e4cd0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/5774d51673e821008564b88dfe7d7026/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/6078b32d51fac8e3390557c916c1144c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/8d07c43ecd9c80d9bb45a0318cac5ff3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/5bbebbc30220444d3095bf7ff3e39d28/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/d98b542986015098ae8ce64af6181e6f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/8a78871d89a0446e5e5eb86f041b6631/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/f6045be47e14b2bea8f8a7569c9766fe/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/b7581bb0247003bb7ca43779dd81f2ee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/02caeeb7eb5bba978251832510946b22/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/652b2424fa084af87c95de8e276d315b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/1c4c84328e097cb1988385847cbaf7e8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/a6ddd1e1b9db2c6d965d26e7e5277713/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/4b303e5e3460cd14365cae3ee7238270/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/7d7ecaf2a05ed9c438364a4c362c24fb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/07935b13e7732dff2dc0c75dd30dbef9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/d64f0cf49f14e435e6abbabb11107269/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/388807cfc6585c659cc25019acad35cf/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml:3:11-43
+		INJECTED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/a16e0188396dae9463a4a8988571888a/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/a16e0188396dae9463a4a8988571888a/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.2] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/8a78871d89a0446e5e5eb86f041b6631/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/8a78871d89a0446e5e5eb86f041b6631/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/f6045be47e14b2bea8f8a7569c9766fe/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/f6045be47e14b2bea8f8a7569c9766fe/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/8a78871d89a0446e5e5eb86f041b6631/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml:11:13-44
+activity#com.example.diceroller.MainActivity
+ADDED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/5d28c042f0bb0b4075455f6f6873d403/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/5d28c042f0bb0b4075455f6f6873d403/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/963404e8ed40604cf67c0126dbc0d383/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/963404e8ed40604cf67c0126dbc0d383/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/a16e0188396dae9463a4a8988571888a/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/a16e0188396dae9463a4a8988571888a/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/290438e323186e155b86240f0ba11e33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/290438e323186e155b86240f0ba11e33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/7dc2cd3807fe8f2e1c3f561e9c2158ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/7dc2cd3807fe8f2e1c3f561e9c2158ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/36861c899f94f64c4d4b10c3f9d3895c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/36861c899f94f64c4d4b10c3f9d3895c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/9cc457d553b4ab459afde441be2017ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/9cc457d553b4ab459afde441be2017ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/ae8fd86f3d91c48d62f48bc4cbecf83d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/ae8fd86f3d91c48d62f48bc4cbecf83d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/108708daf64e4bffb1c359215f3290df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/108708daf64e4bffb1c359215f3290df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/e1545756ac47deeff26fda7b71725bbf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/e1545756ac47deeff26fda7b71725bbf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/753950bb2a121a4e9c9f76ed774e4cd0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/753950bb2a121a4e9c9f76ed774e4cd0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/5774d51673e821008564b88dfe7d7026/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/5774d51673e821008564b88dfe7d7026/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/6078b32d51fac8e3390557c916c1144c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/6078b32d51fac8e3390557c916c1144c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/8d07c43ecd9c80d9bb45a0318cac5ff3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/8d07c43ecd9c80d9bb45a0318cac5ff3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/5bbebbc30220444d3095bf7ff3e39d28/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/5bbebbc30220444d3095bf7ff3e39d28/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/d98b542986015098ae8ce64af6181e6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/d98b542986015098ae8ce64af6181e6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/8a78871d89a0446e5e5eb86f041b6631/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/8a78871d89a0446e5e5eb86f041b6631/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/f6045be47e14b2bea8f8a7569c9766fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/f6045be47e14b2bea8f8a7569c9766fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/b7581bb0247003bb7ca43779dd81f2ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/b7581bb0247003bb7ca43779dd81f2ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/02caeeb7eb5bba978251832510946b22/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/02caeeb7eb5bba978251832510946b22/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/652b2424fa084af87c95de8e276d315b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/652b2424fa084af87c95de8e276d315b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/1c4c84328e097cb1988385847cbaf7e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/1c4c84328e097cb1988385847cbaf7e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/a6ddd1e1b9db2c6d965d26e7e5277713/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/a6ddd1e1b9db2c6d965d26e7e5277713/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/4b303e5e3460cd14365cae3ee7238270/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/4b303e5e3460cd14365cae3ee7238270/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/7d7ecaf2a05ed9c438364a4c362c24fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/7d7ecaf2a05ed9c438364a4c362c24fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/07935b13e7732dff2dc0c75dd30dbef9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/07935b13e7732dff2dc0c75dd30dbef9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/d64f0cf49f14e435e6abbabb11107269/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/d64f0cf49f14e435e6abbabb11107269/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/388807cfc6585c659cc25019acad35cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Huangdanni/.gradle/caches/transforms-2/files-2.1/388807cfc6585c659cc25019acad35cf/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Huangdanni/AndroidStudioProjects/DiceRoller/app/src/main/AndroidManifest.xml
